@@ -2,7 +2,7 @@
   "name": "facebook-group-members-scraper",
   "scripts": {
     "minify": "uglifyjs --compress --mangle --output dist/main.min.js -- dist/main.js",
-    "build": "tsc && yarn minify && build-readme README.md && cp manifest.json popup.html popup.js background.js dist/",
+    "build": "tsc && yarn minify && cp manifest.json popup.html popup.js background.js dist/",
     "package": "cd dist && zip -r extension.zip *"
   },
   "author": "",
