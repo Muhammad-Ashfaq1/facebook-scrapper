@@ -4,15 +4,20 @@
 
 "@ikerin/build-readme@^1.1.1":
   version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@ikerin/build-readme/-/build-readme-1.1.1.tgz#54e5a825607020b7d957b04aa40c413150c5058d"
+  resolved "https://registry.npmjs.org/@ikerin/build-readme/-/build-readme-1.1.1.tgz"
   integrity sha512-XXdRGsV17yy3msGOkFcGy94hPdEKv1NmK84R+akGOgBBFYdjH+Fp+YraEX6tqU8drprFsTcYe8AQ4cZVTLGrnw==
 
 typescript@^4.5.5:
   version "4.5.5"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.5.5.tgz#d8c953832d28924a9e3d37c73d729c846c5896f3"
+  resolved "https://registry.npmjs.org/typescript/-/typescript-4.5.5.tgz"
   integrity sha512-TCTIul70LyWe6IJWT8QSYeA54WQe8EjQFU4wY52Fasj5UKx88LNYKCgBEHcOMOrFF1rKGbD8v/xcNWVUq9SymA==
 
 uglify-js@^3.15.1:
   version "3.15.1"
-  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.15.1.tgz#9403dc6fa5695a6172a91bc983ea39f0f7c9086d"
+  resolved "https://registry.npmjs.org/uglify-js/-/uglify-js-3.15.1.tgz"
   integrity sha512-FAGKF12fWdkpvNJZENacOH0e/83eG6JyVQyanIJaBXCN1J11TUQv1T1/z8S+Z0CG0ZPk1nPcreF/c7lrTd0TEQ==
+
+yarn@^1.22.22:
+  version "1.22.22"
+  resolved "https://registry.npmjs.org/yarn/-/yarn-1.22.22.tgz"
+  integrity sha512-prL3kGtyG7o9Z9Sv8IPfBNrWTDmXB4Qbes8A9rEzt6wkJV8mUvoirjU0Mp3GGAU06Y0XQyA3/2/RQFVuK7MTfg==
